@@ -2,7 +2,7 @@
 
 ### Team Tier contributors
 * Jose Daniel Pabon Villanueva 
-* Francisco Javier Slagado Hernandez
+* Francisco Javier Salgado Hernandez
 * Diego Alejandro Agudelo Torres
 * Esnaider Andrey Muñoz Velez
 
